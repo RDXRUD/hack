@@ -1,1 +1,3 @@
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIs55YsQHRJZAmCzzh/srjOhuh2IlTab0e6m/QwOSlWT rudrakshagarwal@Rudrakshs-MacBook-Air.local
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIPVdyCb1mUyA92tD5o0w+di+E+ZiqNSy4jcgzVVlfsa9 manas-reddy@manas-reddy-Strix-G16
